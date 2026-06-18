@@ -1,9 +1,27 @@
 # PIAIC Assignments
 
-This repository contains all my assignments for the **Presidential Initiative for Artificial Intelligence & Computing (PIAIC)** program.
+PIAIC assignments and Python learning work.
 
-## Installation
+## Purpose
 
-1. Clone the repo:  
-   ```bash
-   git clone https://github.com/yourusername/piaic-assignments.git
+This repository collects assignment work from the PIAIC learning path. It is useful as an education record and a place to show consistent practice.
+
+## What This Shows
+
+- Course assignment organization
+- Python learning progression
+- Academic/programming practice
+
+## Stack
+
+- Python
+
+## Next Improvements
+
+- Add assignment index
+- Add notes for completed tasks
+- Add run instructions where applicable
+
+## Author
+
+Abubakar Khan Lakhwera
